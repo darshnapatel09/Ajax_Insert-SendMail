@@ -1,0 +1,25 @@
+.body {
+ /*  background-color: #f4e5e1; */
+  /* background-image: url('image/dd.jpeg'); */
+  background-repeat: no-repeat;
+ 
+  background-size: cover;
+}
+
+.centered-form {
+  margin-top: 0px auto;
+
+}
+
+.centered-form .panel {
+  background: #d5e7c9;
+  box-shadow: 10px 10px 10px #a59494;
+    border: 3px double black;
+    padding:20px;
+}
+
+.error {
+  color: red;
+  font-size: 90%;
+}
+
